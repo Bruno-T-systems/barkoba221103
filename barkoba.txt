@@ -5,3 +5,4 @@ Személy?
 Nem
 
 Élőlény?
+Igen
